@@ -72,26 +72,26 @@ endmodule
 ### GATES:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/311a1e36-e019-420a-8ce9-0e9f701f0ab8)
 
-### RTL realization
+### RTL realization:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/56a925c7-a244-4605-b8cc-e99452fe5ad4)
 
-### Truthtable
+### Truthtable:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/950dd943-dbd9-4db3-8835-b2dd09192d7b)
 
-### Timing diagram 
+### Timing diagram :
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/20f35849-b5b3-45de-9ac4-fbdc4230a1e1)
 
 ## FULL SUBTRACTOR:
 ### GATES:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/a1654bf9-b079-4e1e-8975-caa4ecd1bb93)
 
-### RTL realization
+### RTL realization:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/c0921d19-6363-44a9-ada6-ab97c0b0fd81)
 
-### Truthtable
+### Truthtable:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/a87d1dce-f1d1-4bf7-826c-d7f04963c8d7)
 
-### Timing diagram
+### Timing diagram:
 ![image](https://github.com/ATHMAJ03/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118753139/4063afcb-1ff7-4970-944f-c44788f4d661)
 
 ## Result:
